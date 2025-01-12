@@ -72,7 +72,3 @@ This Bash script is a simple utility for downloading images from a given URL. It
   ```
 
 ---
-
-## License
-This script is distributed under the [MIT License](https://opensource.org/licenses/MIT). Use at your own risk.
-
